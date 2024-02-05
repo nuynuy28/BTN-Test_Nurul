@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Hitung Harga Properti Maksimal</name>
+   <tag></tag>
+   <elementGuidId>edcd950c-9596-499b-b27e-fab557a29dfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='title_hitung_harga']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#title_hitung_harga</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>9f91c7ed-4a1d-4d89-980f-b266dfbe563c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title_hitung_harga</value>
+      <webElementGuid>13606834-6e9c-4056-b2ba-4ce546d5b01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title_page mb-0</value>
+      <webElementGuid>33079dbe-be36-440e-8bf7-c31d718f30f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hitung Harga Properti Maksimal</value>
+      <webElementGuid>18e43697-8c7d-4474-947a-554bc96f08dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title_hitung_harga&quot;)</value>
+      <webElementGuid>ced1462b-20b2-4222-9fb0-047763393d49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='title_hitung_harga']</value>
+      <webElementGuid>213b7b65-6fa1-467a-831c-a75cb1c6b49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hitung_harga']/div/div/div/div/h1</value>
+      <webElementGuid>0b35c4da-eb3e-460c-aa3f-e962ad6bb88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung Harga'])[3]/following::h1[1]</value>
+      <webElementGuid>ff1662bf-360f-45b3-a20b-90e8d9a70cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/following::h1[1]</value>
+      <webElementGuid>d5a37a25-2341-423d-bc61-5836a5a84a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per Bulan'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ded2b6eb-c8b3-4428-86c6-0276b4c73d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hitung Harga Properti Maksimal']/parent::*</value>
+      <webElementGuid>1e5c0517-1c52-4c31-88e0-12032c139b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>8933746f-bcec-4f8a-807f-70bf86719eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'title_hitung_harga' and (text() = 'Hitung Harga Properti Maksimal' or . = 'Hitung Harga Properti Maksimal')]</value>
+      <webElementGuid>76e39fda-648e-4660-b392-48eac194c589</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

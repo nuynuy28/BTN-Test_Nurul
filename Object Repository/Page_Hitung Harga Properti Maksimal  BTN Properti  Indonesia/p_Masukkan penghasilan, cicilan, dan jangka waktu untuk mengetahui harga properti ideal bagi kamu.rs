@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu</name>
+   <tag></tag>
+   <elementGuidId>f0e16485-ea88-4d8d-b91a-03cffe00df44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='paragraf-hitungharga']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#paragraf-hitungharga</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1e9d4e1d-ea0e-4bb6-8f7a-78cb2ac1f607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>paragraf-hitungharga</value>
+      <webElementGuid>65b577ca-94b4-4a36-8cb7-3c0b1114a8fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu.</value>
+      <webElementGuid>cd5db016-3252-49ae-957d-27524f39e59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paragraf-hitungharga&quot;)</value>
+      <webElementGuid>6e6ba2b4-ec53-4fe9-ad86-26fd9d6cacb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='paragraf-hitungharga']</value>
+      <webElementGuid>a4d8574a-c98e-494d-a070-a956bf505741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hitung_harga']/div/div/div/div/p</value>
+      <webElementGuid>30f50ffe-d2e0-4243-ab62-912cd02e2517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung Harga Properti Maksimal'])[1]/following::p[1]</value>
+      <webElementGuid>d7b38b4c-e155-406a-b2fa-ace1a31f3bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hitung Harga'])[3]/following::p[1]</value>
+      <webElementGuid>3f14ae91-fef0-4fb4-9569-b45eca58b8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per Bulan'])[1]/preceding::p[3]</value>
+      <webElementGuid>52cd8042-8fa9-4249-88b8-e88c56241631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu.']/parent::*</value>
+      <webElementGuid>c500cec3-b33e-4422-be9d-76a288a9a2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f81d28f3-de2c-401a-b332-72d9ce98871c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'paragraf-hitungharga' and (text() = 'Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu.' or . = 'Masukkan penghasilan, cicilan, dan jangka waktu untuk mengetahui harga properti ideal bagi kamu.')]</value>
+      <webElementGuid>aa16a464-2494-4b4f-8dc5-bcc1c7adc30b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
