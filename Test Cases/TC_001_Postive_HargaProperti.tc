@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Successful Harga properti</name>
+   <name>TC_001_Postive_HargaProperti</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ce042b2c-3a1c-4500-aa95-326efd83ac70</testCaseGuid>

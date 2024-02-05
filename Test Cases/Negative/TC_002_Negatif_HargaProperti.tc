@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_002_HargaRekomendasi</name>
+   <name>TC_002_Negatif_HargaProperti</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>4b8292db-d150-4468-84a3-482b357baa39</testCaseGuid>
